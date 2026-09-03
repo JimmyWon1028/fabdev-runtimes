@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "runtimes": [
+    {
+      "name": "php",
+      "version": "7.4.33",
+      "platform": "windows",
+      "architecture": "x64",
+      "minimumOsVersion": "11.0",
+      "fileName": "php-7.4.33-windows-x64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/php-7.4.33-windows-x64-community.tar.gz",
+      "size": 26931905,
+      "sha256": "628096ad4805246199d2b352abde25981d0e2471332bace8cff085800cef8a6a",
+      "signature": null,
+      "sourceVerification": {
+        "method": "official-sha256",
+        "upstreamSha256": "14ae3250d4447c8ccfc4c45a70d90adfbcd61e728d85f0be56a7ddf8f9c8aace"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "php-runtime-v1"
+    },
+    {
+      "name": "php",
+      "version": "8.2.33",
+      "platform": "windows",
+      "architecture": "x64",
+      "minimumOsVersion": "11.0",
+      "fileName": "php-8.2.33-windows-x64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/php-8.2.33-windows-x64-community.tar.gz",
+      "size": 34436122,
+      "sha256": "dc277feea7286980b412b6be43b7fbb74843192b21a5e124c10c233e4d01905c",
+      "signature": null,
+      "sourceVerification": {
+        "method": "official-sha256",
+        "upstreamSha256": "d0bd189522fa50255ee94ed4b340ed4330f5ae33a90a74205275b0f0b221d388"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "php-runtime-v1"
+    },
+    {
+      "name": "php",
+      "version": "8.4.24",
+      "platform": "windows",
+      "architecture": "x64",
+      "minimumOsVersion": "11.0",
+      "fileName": "php-8.4.24-windows-x64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/php-8.4.24-windows-x64-community.tar.gz",
+      "size": 36131486,
+      "sha256": "e6906df0ce0386a0b26db2b9c4aa5ed2dde8939bb30e2fafc383cb2099aee53b",
+      "signature": null,
+      "sourceVerification": {
+        "method": "official-sha256",
+        "upstreamSha256": "86470a30cbbaeafb259e727dfa5cd336f2f3f0a462cd6f8e3eac00fdbded13cb"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "php-runtime-v1"
+    },
+    {
+      "name": "php",
+      "version": "8.5.10",
+      "platform": "windows",
+      "architecture": "x64",
+      "minimumOsVersion": "11.0",
+      "fileName": "php-8.5.10-windows-x64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/php-8.5.10-windows-x64-community.tar.gz",
+      "size": 37138418,
+      "sha256": "ad325fd4cdf5c537e732522d4ea732f2b20fec6440d2099209c9f6ab7be2d5ed",
+      "signature": null,
+      "sourceVerification": {
+        "method": "official-sha256",
+        "upstreamSha256": "22ec430195984d233eb9e62c637a945bbcda06efca2f392d9d96d62c6acd34f8"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "php-runtime-v1"
+    },
+    {
+      "name": "mariadb",
+      "version": "12.3.2",
+      "platform": "windows",
+      "architecture": "x64",
+      "minimumOsVersion": "11.0",
+      "fileName": "mariadb-12.3.2-windows-x64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/mariadb-12.3.2-windows-x64-community.tar.gz",
+      "size": 103120076,
+      "sha256": "448739a424127d663b44e01a8e75a2760218a17e717f3e9066dff07cbdac99fe",
+      "signature": null,
+      "sourceVerification": {
+        "method": "pgp",
+        "fingerprint": "177F4010FE56CA3336300305F1656F24C74CD1D8",
+        "upstreamSha256": "67347c129eb9c5923d002ea34fbfa27c60eb95d36dd73b85af2651cdeceecac5"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "mariadb-runtime-v1"
+    },
+    {
+      "name": "node",
+      "version": "24.20.0",
+      "platform": "windows",
+      "architecture": "x64",
+      "minimumOsVersion": "11.0",
+      "fileName": "node-24.20.0-windows-x64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/node-24.20.0-windows-x64-community.tar.gz",
+      "size": 38196877,
+      "sha256": "b0c21d33d90a7b3afd7b5b8eb2916b39f97ba1973a250fa41df24bfd95830908",
+      "signature": null,
+      "sourceVerification": {
+        "method": "pgp",
+        "fingerprint": "5BE8A3F6C8A5C01D106C0AD820B1A390B168D356",
+        "upstreamSha256": "6cac9ffbca8f6a47091e4b5c772e0606049c3871cb67d900c0cedde630e545ba"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "node-runtime-v1"
+    },
+    {
+      "name": "php",
+      "version": "8.4.24",
+      "platform": "macos",
+      "architecture": "arm64",
+      "minimumOsVersion": "13.0",
+      "fileName": "php-8.4.24-macos-arm64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/php-8.4.24-macos-arm64-community.tar.gz",
+      "size": 51508954,
+      "sha256": "d2061309da8f76e0b70ca11897cd0fd39249096c5ddba352789a4b2bde747949",
+      "signature": null,
+      "sourceVerification": {
+        "method": "pgp",
+        "fingerprint": "9D7F99A0CB8F05C8A6958D6256A97AF7600A39A6",
+        "upstreamSha256": "e127be09a8506f4327c5cfa78a614b00d210714484ec215ce0011b4a03c00731"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "php-runtime-v1"
+    },
+    {
+      "name": "mariadb",
+      "version": "12.3.2",
+      "platform": "macos",
+      "architecture": "arm64",
+      "minimumOsVersion": "13.0",
+      "fileName": "mariadb-12.3.2-macos-arm64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/mariadb-12.3.2-macos-arm64-community.tar.gz",
+      "size": 118528635,
+      "sha256": "d31b8597e094d72a33daa88d494eba9c95d182c15f092ea5b6eeba9b56ccb2a7",
+      "signature": null,
+      "sourceVerification": {
+        "method": "pgp",
+        "fingerprint": "177F4010FE56CA3336300305F1656F24C74CD1D8",
+        "upstreamSha256": "82798714baf2f3456ed2f311fc803dc120f2bf3b82358e773847d628cdb4b670"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "mariadb-runtime-v1"
+    },
+    {
+      "name": "node",
+      "version": "24.20.0",
+      "platform": "macos",
+      "architecture": "arm64",
+      "minimumOsVersion": "13.5",
+      "fileName": "node-24.20.0-macos-arm64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/node-24.20.0-macos-arm64-community.tar.gz",
+      "size": 53076589,
+      "sha256": "9e6073573b88c992ae92383205976b636233e5083a3abc9656b72cbc68207893",
+      "signature": null,
+      "sourceVerification": {
+        "method": "pgp",
+        "fingerprint": "5BE8A3F6C8A5C01D106C0AD820B1A390B168D356",
+        "upstreamSha256": "40e5607e5ecb3db9192723776da2d75d966260fc74a7a9e731c1bd67dda96bc8"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "node-runtime-v1"
+    },
+    {
+      "name": "node",
+      "version": "20.20.2",
+      "platform": "windows",
+      "architecture": "x64",
+      "minimumOsVersion": "11.0",
+      "fileName": "node-20.20.2-windows-x64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/node-20.20.2-windows-x64-community.tar.gz",
+      "size": 30749783,
+      "sha256": "c6872cf2e6b98c84852fdf54772fdadd75c68fd096eaae29acc6aa1b11defaff",
+      "signature": null,
+      "sourceVerification": {
+        "method": "pgp",
+        "fingerprint": "CC68F5A3106FF448322E48ED27F5E38D5B0A215F",
+        "upstreamSha256": "dc3700fdd57a63eedb8fd7e3c7baaa32e6a740a1b904167ff4204bc68ed8bf77"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "node-runtime-v1"
+    },
+    {
+      "name": "node",
+      "version": "20.20.2",
+      "platform": "macos",
+      "architecture": "arm64",
+      "minimumOsVersion": "13.5",
+      "fileName": "node-20.20.2-macos-arm64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v1/node-20.20.2-macos-arm64-community.tar.gz",
+      "size": 41700059,
+      "sha256": "55fb7451b27308e233468bd7541e596bf07e48059c41b0dce26e0cdbd9b6b0a4",
+      "signature": null,
+      "sourceVerification": {
+        "method": "pgp",
+        "fingerprint": "CC68F5A3106FF448322E48ED27F5E38D5B0A215F",
+        "upstreamSha256": "466e05f3477c20dfb723054dfebffe55bc74660ee77f612166fca121dacb65b6"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "node-runtime-v1"
+    }
+  ]
+}

@@ -138,6 +138,26 @@
       "healthCheckProfile": "php-runtime-v1"
     },
     {
+      "name": "php",
+      "version": "8.5.10",
+      "platform": "macos",
+      "architecture": "arm64",
+      "minimumOsVersion": "13.0",
+      "fileName": "php-8.5.10-macos-arm64-community.tar.gz",
+      "url": "https://github.com/JimmyWon1028/fabdev-runtimes/releases/download/catalog-v4/php-8.5.10-macos-arm64-community.tar.gz",
+      "size": 52772681,
+      "sha256": "becf06f1d74d63464c31bb05c5b2f3fadc2ce27fd4363dc4cbf92a4068d327e9",
+      "signature": null,
+      "sourceVerification": {
+        "method": "pgp",
+        "fingerprint": "D95C03BC702BE9515344AE3374E44BC9067701A5",
+        "upstreamSha256": "6a8bebaa4d5a979a38db29a9373e9851f60c6b11f72172c585947e78f3081957"
+      },
+      "archiveFormat": "tar.gz",
+      "installMode": "side-by-side",
+      "healthCheckProfile": "php-runtime-v1"
+    },
+    {
       "name": "mariadb",
       "version": "12.3.2",
       "platform": "macos",
